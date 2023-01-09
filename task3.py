@@ -1,5 +1,4 @@
-# with open('rle.txt', 'r') as data:
-with open('HW5/rle.txt', 'r') as data:
+with open('rle.txt', 'r') as data:
     my_text = data.read()
 
 def encode_rle(ss):
